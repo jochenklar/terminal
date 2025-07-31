@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+*~
+*-
+*.swp
+*.save
+.DS_Store
+
+/.snakemake
+/env
+/bin
+/src
