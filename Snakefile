@@ -28,6 +28,11 @@ tools = {
         "tar": "dust-v1.2.2-x86_64-unknown-linux-gnu.tar.gz",
         "bin": "dust-v1.2.2-x86_64-unknown-linux-gnu/dust"
     },
+    "erd": {
+        "url": "https://github.com/solidiquis/erdtree/releases/download/v3.1.2/erd-v3.1.2-x86_64-unknown-linux-musl.tar.gz",
+        "tar": "erd-v3.1.2-x86_64-unknown-linux-musl.tar.gz",
+        "bin": "erd"
+    },
     "fd": {
         "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-unknown-linux-gnu.tar.gz",
         "tar": "fd-v10.2.0-x86_64-unknown-linux-gnu.tar.gz",
